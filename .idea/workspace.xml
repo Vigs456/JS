@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="577223b8-6e3c-4157-a23f-dbea6acb9413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X7rD98pcRIeUK95CRUR8eBCFRn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="577223b8-6e3c-4157-a23f-dbea6acb9413" name="Default Changelist" comment="" />
+      <created>1580407856920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580407856920</updated>
+      <workItem from="1580407884698" duration="1327000" />
+      <workItem from="1580414231614" duration="1775000" />
+      <workItem from="1581670895474" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="166" key="IDE.errors.dialog" timestamp="1580408093711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="300" y="166" key="IDE.errors.dialog/0.0.1440.860@0.0.1440.860" timestamp="1580408093711" />
+    <state x="362" y="101" width="1078" height="713" key="SettingsEditor" timestamp="1580415908976">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="362" y="101" width="1078" height="713" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1580415908976" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581670988038">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1581670988038" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1581671125571">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1581671125571" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581671405210">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1581671405210" />
+  </component>
+</project>
